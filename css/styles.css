@@ -1,7 +1,35 @@
 body {
-    margin: 0;
+    margin: 10px;
 }
 
-#products ~ p {
-    color: orange;
+/*h2 {*/
+/*    background-color: red;*/
+/*}*/
+
+/*p {*/
+/*    background-color: yellow;*/
+/*}*/
+
+/*a {*/
+/*    background-color: green;*/
+/*}*/
+
+/*ol {*/
+/*    background-color: pink;*/
+/*}*/
+
+/*li {*/
+/*    background-color: teal;*/
+/*}*/
+
+/*strong {*/
+/*    background-color: purple;*/
+/*}*/
+
+a:visited, a:link {
+    color: dodgerblue;
+}
+
+a:hover, a:focus {
+    color: orangered;
 }
